@@ -5,6 +5,7 @@ import {CTA,Brand,Navbar} from './components';
 import './App.css';
 import './index.css'
 
+
 const app = () => {
   return (
     <div className="App">
